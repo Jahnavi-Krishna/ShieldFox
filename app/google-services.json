@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "871271319204",
+    "firebase_url": "https://mobile-self-encryption-fce1b.firebaseio.com",
+    "project_id": "mobile-self-encryption-fce1b",
+    "storage_bucket": "mobile-self-encryption-fce1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871271319204:android:35d6e440acdb29363ac831",
+        "android_client_info": {
+          "package_name": "com.mobileselfencrpytion.shieldfox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871271319204-331j78h7fqn1onil1702k39auj8a077n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6eLUE8er5a-zdi6dvYHjKSDFbUNPLnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871271319204-331j78h7fqn1onil1702k39auj8a077n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871271319204:android:668d852fb9d792793ac831",
+        "android_client_info": {
+          "package_name": "com.mobileselfencryption.shieldfox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871271319204-331j78h7fqn1onil1702k39auj8a077n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ6eLUE8er5a-zdi6dvYHjKSDFbUNPLnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871271319204-331j78h7fqn1onil1702k39auj8a077n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
